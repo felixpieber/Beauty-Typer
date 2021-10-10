@@ -89,7 +89,7 @@
             }
         .container{
                 display: flex;
-                /* - - - other colors - matching the backgrounds - check the numbers and what is activated - to activate delete the (.)*/
+                /* - - - other colors - matching the backgrounds - check the numbers and what is activated*/
                 background-color: rgba(203, 249, 255, 0.66); /*color that goes with all backgrounds*/
                 /*background-color: rgba(56, 20, 98, 0.42); /*Nr1*/
                 /*background-color: rgba(157, 24, 136, 0.42); /*Nr2*/
