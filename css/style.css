@@ -1,0 +1,117 @@
+        body{
+                /*background-image: url('https://wallpaperaccess.com/full/2471303.gif'); /*Nr1*/
+                /*background-image: url('https://wallpaperaccess.com/full/2825787.gif'); /*Nr2*/
+                /*background-image: url('https://wallpaperaccess.com/full/2825711.gif'); /*Nr3*/
+                /*background-image: url('https://wallpaperaccess.com/full/2825724.gif'); /*Nr4*/
+                /*background-image: url('https://wallpaperaccess.com/full/2825801.gif'); /*Nr5*/
+                background-size: cover;
+                height: 100vh;
+                padding:0;
+                margin:0;
+            }
+
+        /*BACKGROUND CHANGE*/
+        #background-change {
+                background-image: url('https://wallpaperaccess.com/full/2471303.gif'); /*on start*/
+            }
+            
+        .background-change-options {
+                display: flex;
+                margin: auto;
+                justify-content: center;
+            }
+        
+        .background1-button {
+                background-image: url('https://wallpaperaccess.com/full/2471303.gif');
+                background-size: cover;
+                padding: 70px 70px;
+                border-radius: 10px;
+            }
+        
+        .background2-button {
+                background-image: url('https://wallpaperaccess.com/full/2825787.gif');
+                background-size: cover;
+                padding: 70px 70px;
+                border-radius: 10px;
+            }
+        
+        .background3-button {
+                background-image: url('https://wallpaperaccess.com/full/2825711.gif');
+                background-size: cover;
+                padding: 70px 70px;
+                border-radius: 10px;
+            }    
+            
+        .background4-button {
+                background-image: url('https://wallpaperaccess.com/full/2825724.gif');
+                background-size: cover;
+                padding: 70px 70px;
+                border-radius: 10px;
+            }    
+            
+        .background5-button {
+                background-image: url('https://wallpaperaccess.com/full/2825801.gif');
+                background-size: cover;
+                padding: 70px 70px;
+                border-radius: 10px;
+            }    
+            
+        footer{
+                position: absolute;
+                left: 0;
+                bottom: ;
+                width: 100%;
+                text-align: center;
+                font-size: 15px;
+                color: rgb(178, 178, 178);
+
+            }
+        .text {
+                font-family: system-ui;
+            }
+        .text-center{
+                text-align: center;
+            }
+        .text-white{
+                color: white;
+            }
+        .neon {
+                color: #fff;
+                text-shadow:
+                    0 0 5px #fff,
+                    0 0 10px #fff,
+                    0 0 20px #fff,
+                    0 0 40px #0ff,
+                    0 0 80px #0ff,
+                    0 0 90px #0ff,
+                    0 0 100px #0ff,
+                    0 0 150px #0ff;
+            }
+        .container{
+                display: flex;
+                /* - - - other colors - matching the backgrounds - check the numbers and what is activated - to activate delete the (.)*/
+                background-color: rgba(203, 249, 255, 0.66); /*color that goes with all backgrounds*/
+                /*background-color: rgba(56, 20, 98, 0.42); /*Nr1*/
+                /*background-color: rgba(157, 24, 136, 0.42); /*Nr2*/
+                /*background-color: rgba(37, 157, 125, 0.42); /*Nr3*/
+                /*background-color: rgba(191, 203, 226, 0.42); /*Nr4*/
+                /*background-color: rgba(11, 41, 41, 0.42); /*Nr5*/
+                border-radius: 10px;
+                margin: ;
+                width: 800px;
+                justify-content: center;
+            }
+        .center{
+                display: flex;
+                margin: auto;
+                width: 800px;
+                align-content: center;
+                align-items: center;
+                justify-content: center;
+            }
+        .music{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                border-radius: 10px;
+            }

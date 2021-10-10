@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Beauty Typer</title>
+        <link rel="icon" href="assets/favicon.ico"/>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+    crossorigin="anonymous">
+        
+    </head>
+    <body class="text text-white" id="background-change">
+            
+        <!-- Head -->
+        <header class="text-center">
+            <br><br>
+            <h1 class="neon" style="font-size: 90px">Beauty Typer</h1>
+        </header>
+        <p class="text text-center" style="font-size: 12px">Type the given word wihtin <span class="text-success" id="seconds">5</span> seconds:</p>
+        <br>
+        <div class="container">
+            <!-- Word & Input -->
+            <div>
+              <div>
+                <br>
+                <h2 class="display-2 mb-5 text-center" id="current-word">hello</h2>
+                <input type="text-w" class="form-control form-control-lg" placeholder="Start typing..." id="word-input" autofocus>
+                <h4 class="text-center mt-3" id="message"></h4>
+
+            <!-- Time & Score Columns -->
+            <div class="center" style="width: 150px">
+              <div class="text text-center">
+                <p>Time Left:
+                  <span id="time">0</span>
+                </p>
+                  
+                <p>Score:
+                  <span id="score">0</span>
+                </p>
+                  
+                <p>High Score:
+                  <span id="highscore">0</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+        <br>
+        <!-- background change buttons -->
+        <div class="background-change-options">
+            <button class="background1-button" onclick="background1()"></button>
+            <button class="background2-button" onclick="background2()"></button>
+            <button class="background3-button" onclick="background3()"></button>
+            <button class="background4-button" onclick="background4()"></button>
+            <button class="background5-button" onclick="background5()"></button>
+        </div>
+        <br>
+        <!-- Music -->
+        <div>
+            <iframe class="music" width="300" height="100" src="https://www.youtube.com/embed/bmVKaAV_7-A?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <!-- JS -->
+        <script src="js/main.js"></script>
+    </body>
+    <!-- Footer -->
+    <footer>
+        <br>
+        <div class="text text-center">Copyright &copy; <a href="https://github.com/felixpieber/">Felix Pieber</a>
+                <script>
+                    document.write(new Date().getFullYear());
+                </script>
+            <p style="font-size: 10px; color: white">V.1.1</p>
+        </div>
+    </footer>
+</html>
