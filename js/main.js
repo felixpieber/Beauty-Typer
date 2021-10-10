@@ -63,7 +63,7 @@ const words = [
     'train',
     'inconclusive',
     'exchange',
-    'ambiguous'
+    'ambiguous',
     'accumulation',
     'likely',
     'value',
@@ -105,6 +105,7 @@ const words = [
     'appendix',
     'disestablishment'
 ];
+
 
 // Initialize Game
 function init() {
