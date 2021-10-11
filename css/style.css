@@ -6,8 +6,8 @@
                 /*background-image: url('https://wallpaperaccess.com/full/2825801.gif'); /*Nr5*/
                 background-size: cover;
                 height: 100vh;
-                padding:0;
-                margin:0;
+                padding: 0;
+                margin: 0;
             }
 
         /*BACKGROUND CHANGE*/
@@ -24,42 +24,42 @@
         .background1-button {
                 background-image: url('https://wallpaperaccess.com/full/2471303.gif');
                 background-size: cover;
-                padding: 70px 70px;
+                padding: 50px 50px;
                 border-radius: 10px;
             }
         
         .background2-button {
                 background-image: url('https://wallpaperaccess.com/full/2825787.gif');
                 background-size: cover;
-                padding: 70px 70px;
+                padding: 50px 50px;
                 border-radius: 10px;
             }
         
         .background3-button {
                 background-image: url('https://wallpaperaccess.com/full/2825711.gif');
                 background-size: cover;
-                padding: 70px 70px;
+                padding: 50px 50px;
                 border-radius: 10px;
             }    
             
         .background4-button {
                 background-image: url('https://wallpaperaccess.com/full/2825724.gif');
                 background-size: cover;
-                padding: 70px 70px;
+                padding: 50px 50px;
                 border-radius: 10px;
             }    
             
         .background5-button {
                 background-image: url('https://wallpaperaccess.com/full/2825801.gif');
                 background-size: cover;
-                padding: 70px 70px;
+                padding: 50px 50px;
                 border-radius: 10px;
             }    
             
         footer{
-                position: absolute;
+                position: fixed;
                 left: 0;
-                bottom: ;
+                bottom: 0;
                 width: 100%;
                 text-align: center;
                 font-size: 15px;
@@ -97,7 +97,7 @@
                 /*background-color: rgba(191, 203, 226, 0.42); /*Nr4*/
                 /*background-color: rgba(11, 41, 41, 0.42); /*Nr5*/
                 border-radius: 10px;
-                margin: ;
+                margin: 0;
                 width: 800px;
                 justify-content: center;
             }
