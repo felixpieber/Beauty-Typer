@@ -15,44 +15,53 @@
                 background-image: url('https://wallpaperaccess.com/full/2471303.gif'); /*on start*/
             }
             
-        .background-change-options {
+        .background-change-buttons {
                 display: flex;
                 margin: auto;
                 justify-content: center;
+            }
+    
+        button:hover {
+                opacity: 0.8;
             }
         
         .background1-button {
                 background-image: url('https://wallpaperaccess.com/full/2471303.gif');
                 background-size: cover;
-                padding: 50px 50px;
+                padding: 50px 60px;
+                margin: 0px 15px;
                 border-radius: 10px;
             }
         
         .background2-button {
                 background-image: url('https://wallpaperaccess.com/full/2825787.gif');
                 background-size: cover;
-                padding: 50px 50px;
+                padding: 50px 60px;
+                margin: 0px 15px;
                 border-radius: 10px;
             }
         
         .background3-button {
                 background-image: url('https://wallpaperaccess.com/full/2825711.gif');
                 background-size: cover;
-                padding: 50px 50px;
+                padding: 50px 60px;
+                margin: 0px 15px;
                 border-radius: 10px;
             }    
             
         .background4-button {
                 background-image: url('https://wallpaperaccess.com/full/2825724.gif');
                 background-size: cover;
-                padding: 50px 50px;
+                padding: 50px 60px;
+                margin: 0px 15px;
                 border-radius: 10px;
             }    
             
         .background5-button {
                 background-image: url('https://wallpaperaccess.com/full/2825801.gif');
                 background-size: cover;
-                padding: 50px 50px;
+                padding: 50px 60px;
+                margin: 0px 15px;
                 border-radius: 10px;
             }    
             
@@ -66,6 +75,7 @@
                 color: rgb(178, 178, 178);
 
             }
+        /*TEXT*/
         .text {
                 font-family: system-ui;
             }
