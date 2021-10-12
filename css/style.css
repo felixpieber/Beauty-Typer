@@ -29,11 +29,6 @@ button:hover {
         opacity: 0.8;
 }
 
-.background-change-buttons-headline {
-        font-size: 10px; 
-        color: rgba(255, 255, 255, 0.49);
-}
-
 .background1-button {
         background-image: url('https://wallpaperaccess.com/full/2471303.gif');
         background-size: cover;
@@ -87,14 +82,6 @@ button:hover {
         color: white;
 }
 
-.header {
-        font-size: 90px;
-}
-
-.header-subtitle {
-        font-size: 12px;
-}
-
 .neon {
         color: #fff;
         text-shadow:
@@ -134,10 +121,6 @@ button:hover {
         justify-content: center;
 }
 
-.input-size {
-        width: 150px;
-}
-
 .music {
         display: block;
         margin-left: auto;
@@ -153,9 +136,4 @@ footer {
         text-align: center;
         font-size: 15px;
         color: rgb(178, 178, 178);
-}
-
-.v-link-style {
-        font-size: 10px;
-        color: rgba(255, 255, 255, 0.45);
 }
