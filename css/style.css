@@ -15,8 +15,8 @@ body {
         background-image: url('https://wallpaperaccess.com/full/2471303.gif'); /*background on start*/
 }
 
-#content-div-background-color {   
-        background-color: rgba(203, 249, 255, 0.66); /*div background color on start*/
+#game-content-background-color {   
+        background-color: rgba(56, 20, 98, 0.42); /*game content background color on start*/
 }
             
 .background-change-buttons {
@@ -105,7 +105,7 @@ button:hover {
         /*background-color: rgba(157, 24, 136, 0.42); /*Nr2*/
         /*background-color: rgba(37, 157, 125, 0.42); /*Nr3*/
         /*background-color: rgba(191, 203, 226, 0.42); /*Nr4*/
-        /*background-color: rgba(11, 41, 41, 0.42); /*Nr5*/
+        /*background-color: rgba(4, 34, 41, 0.42); /*Nr5*/
         border-radius: 10px;
         margin: 0;
         width: 800px;

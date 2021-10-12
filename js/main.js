@@ -194,21 +194,26 @@ function checkStatus() {
 
 // Background change buttons
 function background1() {
-    document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2471303.gif)"; 
+    document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2471303.gif)";
+    document.getElementById("game-content-background-color").style.backgroundColor = "rgba(56, 20, 98, 0.42)";
 }
 
 function background2() {
-   document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825787.gif)";
+    document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825787.gif)";
+    document.getElementById("game-content-background-color").style.backgroundColor = "rgba(157, 24, 136, 0.42)";
 }
 
 function background3() {
-   document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825711.gif)";
+    document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825711.gif)";
+    document.getElementById("game-content-background-color").style.backgroundColor = "rgba(37, 157, 125, 0.42)";
 }
 
 function background4() {
-   document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825724.gif)";
+    document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825724.gif)";
+    document.getElementById("game-content-background-color").style.backgroundColor = "rgba(191, 203, 226, 0.42)";
 }
 
 function background5() {
-   document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825801.gif)";
+    document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2825801.gif)";
+    document.getElementById("game-content-background-color").style.backgroundColor = "rgba(4, 34, 41, 0.42)";
 }
