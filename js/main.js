@@ -194,7 +194,7 @@ function checkStatus() {
 
 // Background change buttons
 function background1() {
-   document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2471303.gif)";
+    document.getElementById("background-change").style.backgroundImage = "url(https://wallpaperaccess.com/full/2471303.gif)"; 
 }
 
 function background2() {
