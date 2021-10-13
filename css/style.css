@@ -16,8 +16,8 @@ body {
 }
 
 #game-content-background-color {   
-        background-color: rgba(203, 249, 255, 0.66); /*game content background color on start*/
-        /*background-color: rgba(56, 20, 98, 0.42); /*background1() game content background color*/
+        /*background-color: rgba(203, 249, 255, 0.66); /*game content background color on start*/
+        background-color: rgba(56, 20, 98, 0.42); /*background1() game content background color*/
 }
             
 .background-change-buttons {
