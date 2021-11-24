@@ -20,4 +20,4 @@ multiple colors and backgrounds:
 
 
 # How it works
-[JavaScript](https://github.com/felixpieber/Beauty-Typer/blob/main/js/main.js) | [HTML](https://github.com/felixpieber/Beauty-Typer/blob/main/index.html) | [CSS](https://github.com/felixpieber/Beauty-Typer/blob/main/css/style.) | [Versions/Changes](https://github.com/felixpieber/Beauty-Typer/commits/main)
+[JavaScript](https://github.com/felixpieber/Beauty-Typer/blob/main/js/main.js) | [HTML](https://github.com/felixpieber/Beauty-Typer/blob/main/index.html) | [CSS](https://github.com/felixpieber/Beauty-Typer/blob/main/css/style.css) | [Versions/Changes](https://github.com/felixpieber/Beauty-Typer/commits/main)
