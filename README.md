@@ -5,7 +5,7 @@ by Felix Pieber
 
 [BeautyTyper](https://felixpieber.github.io/web/projects/Beauty-Typer/index.html) is a free speed typing game.
 
-# V2.0
+# V2.0 Whats NEW?
 multiple colors and backgrounds:
 1. Mystical Forest
 ![image](https://wallpaperaccess.com/full/2471303.gif)
