@@ -8,16 +8,16 @@ by Felix Pieber
 # V2.0
 multiple colors and backgrounds:
 1. Mystical Forest
-![image](https://wallpaperaccess.com/full/2471303.gif)
+![image](https://wallpaperaccess.com/full/2471303.gif | width=100)
 2. Futuristic City
-![image](https://wallpaperaccess.com/full/2825787.gif)
+![image](https://wallpaperaccess.com/full/2825787.gif | width=100)
 3. Rainy Day
-![image](https://wallpaperaccess.com/full/2825711.gif)
+![image](https://wallpaperaccess.com/full/2825711.gif | width=100)
 4. Zhangjiajie Mountains
-![image](https://wallpaperaccess.com/full/2825724.gif)
+![image](https://wallpaperaccess.com/full/2825724.gif | width=100)
 5. Dark Underground
-![image](https://wallpaperaccess.com/full/2825801.gif)
+![image](https://wallpaperaccess.com/full/2825801.gif | width=100)
 
 
 # How it works
-[JavaScript](https://github.com/felixpieber/Beauty-Typer/blob/main/js/main.js) [HTML](https://github.com/felixpieber/Beauty-Typer/blob/main/index.html) [CSS](https://github.com/felixpieber/Beauty-Typer/blob/main/css/style.) | [Versions/Changes](https://github.com/felixpieber/Beauty-Typer/commits/main)
+[JavaScript](https://github.com/felixpieber/Beauty-Typer/blob/main/js/main.js) | [HTML](https://github.com/felixpieber/Beauty-Typer/blob/main/index.html) | [CSS](https://github.com/felixpieber/Beauty-Typer/blob/main/css/style.) | [Versions/Changes](https://github.com/felixpieber/Beauty-Typer/commits/main)
