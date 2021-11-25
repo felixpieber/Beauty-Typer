@@ -103,32 +103,7 @@ const words = [
     'potential',
     'virus',
     'appendix',
-    'disestablishment',
-    'settlement',
-    'choose',
-    'confrontation',
-    'duke',
-    'thumb',
-    'fitness',
-    'slot',
-    'distortion',
-    'friendly',
-    'colorful',
-    'stab',
-    'moving',
-    'discrimination',
-    'poem',
-    'finger',
-    'widen',
-    'extent',
-    'center',
-    'climate',
-    'minister',
-    'dance',
-    'fairy',
-    'chimpanzee',
-    'delay',
-    'immune'
+    'disestablishment'
 ];
 
 
