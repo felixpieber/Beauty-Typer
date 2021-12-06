@@ -129,6 +129,11 @@ button:hover {
         border-radius: 10px;
 }
 
+/*CURSOR INTO POINTER*/
+.hand {
+       cursor: pointer;
+}
+
 /*FOOTER*/
 footer {
         position: fixed;
